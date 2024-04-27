@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3> NAME : GOKHULRAJ V</h3>
-<h3> REG NO : 212223230064 </h3>
+<h3> NAME : HARISHKUMAR R</h3>
+<h3> REG NO : 212223230073 </h3>
 
 # Aim: 
 
